@@ -2,7 +2,7 @@ import requests
 import json
 import csv
 
-headers = {'User-Agent': 'asse96 - Script for TA event'}
+headers = {'User-Agent': 'describe what you are doing'}
 offset = 0
 seasonID = ''
 mapID = ''
